@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashwani2" alt="AshwaniKumar" /></a> </p>
 
 
-- 🌱 I’m currently learning **Backend developer*
+- 🌱 I’m currently learning **AWS*
 
 - 💬 Ask me about **MongoDb , Node js , MERN Stack**
 
