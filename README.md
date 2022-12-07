@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Ashwani Kumar</h1>
 <h3 align="center">A passionate Backend Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suneelkumarr&label=Profile%20views&color=0e75b6&style=flat" alt="AshwaniKumar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwani2&label=Profile%20views&color=0e75b6&style=flat" alt="AshwaniKumar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AshwaniKumar" alt="AshwaniKumar" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashwani2" alt="AshwaniKumar" /></a> </p>
 
 
 - 🌱 I’m currently learning **Backend developer*
@@ -24,6 +24,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashwani2&show_icons=true&locale=en&layout=compact" alt="AshwaniKumar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suneelkumarr&show_icons=true&locale=en" alt="AshwaniKumar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashwani2&show_icons=true&locale=en" alt="AshwaniKumar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashwanikumar" alt="AshwaniKumar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashwani2" alt="AshwaniKumar" /></p>
